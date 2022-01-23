@@ -1,1 +1,0 @@
-We use the 'float' type as an approximation of a real number. We may use the float type implicitly by writing a literal number with a decimal point, e.g., writing 1.0 rather than 1 to indicate that we intend the floating point number 1.0 rather than the integer (int type) number
